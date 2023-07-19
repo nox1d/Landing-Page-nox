@@ -12,3 +12,9 @@ body {
     background: #1f2937;
     padding: 16px;
 }
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
