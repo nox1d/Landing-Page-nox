@@ -113,5 +113,5 @@ a {
 .quote {
     background: #e5e7eb;
     color: #1f2937;
-    height: 400px;
+    min-height: 400px;
 }
