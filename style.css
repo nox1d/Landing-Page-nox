@@ -19,7 +19,6 @@ body {
 }
 
 .header-container {
-    width: 50vw;
     display: flex;
     justify-content: space-between;
 }
@@ -48,6 +47,10 @@ a {
     flex: 1;
 }
 
+.header-container, .hero-container, .info-container, .quote-container, .action-container {
+    width: 70vw;
+}
+
 .hero {
     min-height: 25vh;
     background: #576b33;
@@ -58,7 +61,6 @@ a {
 }
 
 .hero-container {
-    width: 50vw;
     display: flex;
     justify-content: space-between;
     gap: 52px;
@@ -108,10 +110,6 @@ a {
     align-items: center;
 }
 
-.info-container {
-    width: 50vw;
-}
-
 .title {
     font-size: 36px;
     font-weight: 800;
@@ -148,7 +146,6 @@ a {
 }
 
 .quote-container {
-    width: 50vw;
     padding: 32px;
     display: flex;
     flex-direction: column;
@@ -180,7 +177,6 @@ a {
 
 .action-container {
     background: #322F3F;
-    width: 50vw;
     padding: 32px;
     display: flex;
     justify-content: space-between;
