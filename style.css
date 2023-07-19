@@ -53,11 +53,15 @@ a {
 
 .hero {
     min-height: 25vh;
-    background: #576b33;
     padding: 64px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(/images/push-up-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .hero-container {
