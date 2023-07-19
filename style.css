@@ -8,11 +8,14 @@ body {
 .header, .footer {
     height: 72px;
     display: flex;
-    justify-content: space-between;
     background: #1f2937;
     padding: 16px;
 }
 
+.header {
+    align-items: center;
+    justify-content: space-between;
+}
 .logo {
     color: #f9faf8;
     font-size: 24px;
