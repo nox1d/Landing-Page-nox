@@ -66,6 +66,10 @@ a {
     height: 30px;
 }
 
+.hero-content {
+    width: 500px;
+}
+
 .img-placeholder {
     height: 250px;
     width: 500px;
