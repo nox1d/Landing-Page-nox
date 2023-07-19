@@ -88,6 +88,7 @@ a {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    margin-bottom: 32px;
 }
 
 .info-container {
@@ -103,7 +104,6 @@ a {
     border-radius: 10px;
     flex-shrink: 0;
 }
-
 
 .item {
     max-width: 200px;
