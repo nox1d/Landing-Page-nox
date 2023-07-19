@@ -172,7 +172,7 @@ a {
 
 .action-container {
     background:#3882f6;
-    width: 1000px;
+    width: 50vw;
     padding: 32px;
     display: flex;
     justify-content: space-between;
