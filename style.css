@@ -115,3 +115,14 @@ a {
     color: #1f2937;
     min-height: 400px;
 }
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: 800;
+}
