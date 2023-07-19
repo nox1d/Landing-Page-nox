@@ -82,10 +82,11 @@ a {
     background: #322F3F;
     color: #e5e7eb;
     font-weight: 700;
-    border-style: none;
+    font-size: 24px;
+    border: 2px solid #f9faf8;
     border-radius: 10px;
-    width: 100px;
-    height: 30px;
+    width: 250px;
+    height: 75px;
     cursor: pointer;
 }
 
@@ -193,10 +194,6 @@ a {
 .action-text {
     color: #e5e7eb;
     font-size: 18px;
-}
-
-.button#action {
-    border: 2px solid #f9faf8;
 }
 
 .footer {
