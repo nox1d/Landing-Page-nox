@@ -106,7 +106,7 @@ a {
     margin-bottom: 32px;
 }
 
-.info-container {
+.info-content {
     display: flex;
     justify-content: center;
     gap: 52px;
