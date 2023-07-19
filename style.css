@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, sans-serif;
     height: 100vh;
+    margin: 0;
     display: flex;
     flex-direction: column;
 }
