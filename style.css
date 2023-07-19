@@ -98,8 +98,10 @@ a {
     width: 50%;
 }
 
+/* STILL HAS PROBLEM */
 .hero img {
-    
+    height: 360px;
+    width: auto;
 }
 
 .info {
