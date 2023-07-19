@@ -4,3 +4,11 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header, .footer {
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    background: #1f2937;
+    padding: 16px;
+}
