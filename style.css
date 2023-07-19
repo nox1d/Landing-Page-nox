@@ -42,3 +42,9 @@ a {
     background: #1f2937;
     padding: 16px;
 }
+
+.img-placeholder {
+    height: 250px;
+    width: 500px;
+    border: 2px solid #e5e7eb;
+}
