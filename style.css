@@ -54,6 +54,13 @@ a {
     gap: 52px;
 }
 
+.hero-container {
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+    gap: 52px;
+}
+
 .hero-main {
     color: #f9faf8;
     font-size: 48px;
