@@ -42,6 +42,7 @@ a {
     background: #1f2937;
     padding: 16px;
     display: flex;
+    justify-content: center;
     gap: 24px;
 }
 
