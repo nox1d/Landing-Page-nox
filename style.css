@@ -140,3 +140,14 @@ a {
     align-self: flex-end;
     padding: 16px 80px;
 }
+
+.action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.action-container {
+    background:#3882f6;
+    width: 1000px;
+}
