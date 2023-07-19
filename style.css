@@ -56,6 +56,16 @@ a {
     font-size: 18px;
 }
 
+.button {
+    background: #3882f6;
+    color: #e5e7eb;
+    font-weight: 700;
+    border-style: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+
 .img-placeholder {
     height: 250px;
     width: 500px;
