@@ -150,6 +150,7 @@ a {
 .action-container {
     background:#3882f6;
     width: 1000px;
+    padding: 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
