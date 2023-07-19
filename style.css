@@ -78,3 +78,9 @@ a {
     border: 2px solid #e5e7eb;
     flex-shrink: 0;
 }
+
+.title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
