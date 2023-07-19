@@ -40,7 +40,7 @@ a {
 .hero {
     height: 500px;
     background: #1f2937;
-    padding: 16px;
+    padding: 32px;
     display: flex;
     justify-content: center;
     gap: 24px;
@@ -81,6 +81,7 @@ a {
 
 .info {
     text-align: center;
+    padding: 32px;
 }
 
 .title {
