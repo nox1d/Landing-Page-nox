@@ -142,7 +142,7 @@ a {
 }
 
 .quote-container {
-    max-width: 800px;
+    width: 50vw;
     padding: 32px;
     display: flex;
     flex-direction: column;
