@@ -49,7 +49,7 @@ a {
 }
 
 .hero {
-    min-height: 500px;
+    min-height: 30vh;
     background: #1f2937;
     padding: 32px;
     display: flex;
