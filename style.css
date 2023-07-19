@@ -137,4 +137,6 @@ a {
 .author {
     font-size: 24px;
     font-weight: 800;
+    align-self: flex-end;
+    padding: 16px 80px;
 }
