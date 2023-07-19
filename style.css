@@ -99,6 +99,10 @@ a {
     padding: 32px;
 }
 
+.info-container {
+    width: 50vw;
+}
+
 .title {
     font-size: 36px;
     font-weight: 800;
