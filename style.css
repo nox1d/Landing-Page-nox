@@ -98,11 +98,8 @@ a {
     width: 50%;
 }
 
-.img-placeholder {
-    height: 250px;
-    width: 500px;
-    border: 2px solid #e5e7eb;
-    flex-shrink: 0;
+.hero img {
+    
 }
 
 .info {
