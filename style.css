@@ -168,3 +168,7 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.button#action {
+    border: 2px solid #f9faf8;
+}
