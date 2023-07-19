@@ -52,7 +52,7 @@ a {
 }
 
 .hero {
-    min-height: 25vh;
+    min-height: 30vh;
     padding: 64px;
     display: flex;
     justify-content: center;
@@ -107,7 +107,7 @@ a {
 .info {
     background: #cdd0c0;
     text-align: center;
-    min-height: 25vh;
+    min-height: 30vh;
     padding: 64px;
     display: flex;
     justify-content: center;
