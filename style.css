@@ -10,7 +10,7 @@ body {
     height: 72px;
     display: flex;
     background: #1f2937;
-    padding: 16px;
+    padding: 0 16px;
 }
 
 .header {
