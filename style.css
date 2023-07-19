@@ -17,6 +17,7 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
 .logo {
     color: #f9faf8;
     font-size: 24px;
@@ -172,4 +173,12 @@ a {
 
 .button#action {
     border: 2px solid #f9faf8;
+}
+
+.footer {
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
