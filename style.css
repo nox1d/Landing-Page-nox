@@ -51,7 +51,7 @@ a {
 .hero {
     min-height: 25vh;
     background: #1f2937;
-    padding: 32px;
+    padding: 64px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,7 +100,7 @@ a {
 .info {
     text-align: center;
     min-height: 25vh;
-    padding: 32px;
+    padding: 64px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -143,6 +143,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 64px;
 }
 
 .quote-container {
