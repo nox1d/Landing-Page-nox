@@ -18,6 +18,12 @@ body {
     justify-content: center;
 }
 
+.header-container {
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+}
+
 .logo {
     color: #f9faf8;
     font-size: 24px;
