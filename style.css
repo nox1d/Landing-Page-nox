@@ -90,6 +90,12 @@ a {
     color: #1f2937;
 }
 
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
 .box {
     width: 200;
     height: 200px;
@@ -98,11 +104,6 @@ a {
     flex-shrink: 0;
 }
 
-.info-container {
-    display: flex;
-    justify-content: center;
-    gap: 52px;
-}
 
 .item {
     max-width: 200px;
