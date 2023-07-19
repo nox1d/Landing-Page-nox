@@ -79,6 +79,10 @@ a {
     flex-shrink: 0;
 }
 
+.info {
+    text-align: center;
+}
+
 .title {
     font-size: 36px;
     font-weight: 800;
