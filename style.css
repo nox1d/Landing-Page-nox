@@ -121,6 +121,7 @@ a {
 
 .quote-container {
     max-width: 800px;
+    padding: 32px;
     display: flex;
     flex-direction: column;
     justify-content: center;
