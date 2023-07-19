@@ -41,6 +41,7 @@ a {
     height: 500px;
     background: #1f2937;
     padding: 16px;
+    display: flex;
 }
 
 .hero-main {
