@@ -108,3 +108,9 @@ a {
 .item {
     max-width: 200px;
 }
+
+.quote {
+    background: #e5e7eb;
+    color: #1f2937;
+    height: 400px;
+}
