@@ -99,7 +99,7 @@ a {
 
 .info {
     text-align: center;
-    min-height: 500px;
+    min-height: 30vh;
     padding: 32px;
     display: flex;
     justify-content: center;
