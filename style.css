@@ -172,6 +172,7 @@ a {
     align-items: center;
     justify-content: center;
     padding: 64px;
+    min-height: 15vh;
 }
 
 .action-container {
