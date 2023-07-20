@@ -124,6 +124,7 @@ a {
 .info-content {
     display: flex;
     justify-content: center;
+    color: #1f2937;
     gap: 52px;
 }
 
