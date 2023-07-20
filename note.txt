@@ -6,3 +6,4 @@ Button: #322F3F
 
 Primary text: #f9faf8
 Secondary text: #e5e7eb
+Dark text: #1f2937
