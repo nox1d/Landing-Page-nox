@@ -23,12 +23,6 @@ body {
     justify-content: space-between;
 }
 
-.logo {
-    color: #f9faf8;
-    font-size: 24px;
-    font-weight: bold;
-}
-
 ul {
     list-style: none;
     display: flex;
@@ -41,6 +35,12 @@ a {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .content {
