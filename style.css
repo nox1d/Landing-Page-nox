@@ -92,6 +92,9 @@ a {
     width: 250px;
     height: 75px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero-content {
